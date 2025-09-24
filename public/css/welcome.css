@@ -55,10 +55,10 @@ body {
     background-size: cover;
     background-position: center;
     position: relative;
+    padding: 1rem;
 }
 
 .category-badge {
-    position: absolute;
     top: 12px;
     left: 12px;
     background: rgba(0,0,0,0.7);
@@ -72,7 +72,6 @@ body {
 }
 
 .status-badge {
-    position: absolute;
     top: 12px;
     right: 12px;
     padding: 4px 12px;
@@ -80,7 +79,9 @@ body {
     font-size: 12px;
     font-weight: 600;
 }
-
+.card-image-header {
+  gap: 0.5rem;
+}
 .status-open {
     background: #27ae60;
     color: white;

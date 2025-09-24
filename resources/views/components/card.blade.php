@@ -16,15 +16,17 @@
 <div class="place-card">
     {{-- Card Image Section --}}
     <div class="card-image" style="background-image: url('{{ $image }}');">
-        {{-- Category Badge --}}
-        <div class="category-badge">
-            <i class="fas fa-{{ $categoryIcon }}"></i> 
-            {{ $category }}
-        </div>
+        <div style="display: flex; align-items: center;" class="card-image-header">
+            {{-- Category Badge --}}
+            <div class="category-badge">
+                <i class="fas fa-{{ $categoryIcon }}"></i> 
+                {{ $category }}
+            </div>
 
-        {{-- Status Badge --}}
-        <div class="status-badge status-{{ strtolower($status) }}">
-            {{ $status }}
+            {{-- Status Badge --}}
+            <div class="status-badge status-{{ strtolower($status) }}">
+                {{ $status }}
+            </div>
         </div>
     </div>
 
@@ -67,7 +69,7 @@
                     <span class="price-text"> for 1 person</span>
                 </div>
             @endif
-            
+
         </div>
 
         {{-- Card Footer Section --}}
