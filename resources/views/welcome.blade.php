@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    {{-- Hero Section --}}
+    <!-- Hero Section -->
     <div class="hero-section">
         <h1 class="hero-title">
             Great places to Explore
@@ -12,10 +12,10 @@
         </p>
     </div>
     
-    {{-- Cards Grid Section --}}
+    <!-- Cards Grid Section -->
     <div class="cards-container">
         <div class="row g-4">
-            {{-- Card 1: Portland New Art Museum --}}
+            <!-- Card 1: Portland New Art Museum -->
             <div class="col-lg-3 col-sm-6">
                 <div class="place-card">
                     <div class="card-image" style="background-image: url('https://images.unsplash.com/photo-1544735716-392fe2489ffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80');">
@@ -56,7 +56,7 @@
                 </div>
             </div>
 
-            {{-- Card 2: JP Shopping Mall --}}
+            <!-- Card 2: JP Shopping Mall -->
             <div class="col-lg-3 col-sm-6">
                 <div class="place-card">
                     <div class="card-image" style="background-image: url('https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80');">
@@ -97,7 +97,7 @@
                 </div>
             </div>
 
-            {{-- Card 3: Courtyard by Marriott --}}
+            <!-- Card 3: Courtyard by Marriott -->
             <div class="col-lg-3 col-sm-6">
                 <div class="place-card">
                     <div class="card-image" style="background-image: url('https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80');">
@@ -138,7 +138,7 @@
                 </div>
             </div>
 
-            {{-- Card 4: Emperor Resort & Spa --}}
+            <!-- Card 4: Emperor Resort & Spa -->
             <div class="col-lg-3 col-sm-6">
                 <div class="place-card">
                     <div class="card-image" style="background-image: url('https://images.unsplash.com/photo-1571902943202-507ec2618e8f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80');">
@@ -180,7 +180,7 @@
                 </div>
             </div>
 
-            {{-- Card 5: Phoenix Power Gym --}}
+            <!-- Card 5: Phoenix Power Gym -->
             <div class="col-lg-3 col-sm-6">
                 <div class="place-card">
                     <div class="card-image" style="background-image: url('https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80');">
@@ -221,7 +221,7 @@
                 </div>
             </div>
 
-            {{-- Card 6: Park Plaza Lodge Hotel --}}
+            <!-- Card 6: Park Plaza Lodge Hotel -->
             <div class="col-lg-3 col-sm-6">
                 <div class="place-card">
                     <div class="card-image" style="background-image: url('https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80');">
@@ -262,7 +262,7 @@
                 </div>
             </div>
 
-            {{-- Card 7: Car Service & Repair --}}
+            <!-- Card 7: Car Service & Repair -->
             <div class="col-lg-3 col-sm-6">
                 <div class="place-card">
                     <div class="card-image" style="background-image: url('https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80');">
@@ -303,8 +303,8 @@
                 </div>
             </div>
 
-            {{-- Card 8: El Torero Restaurant & Bar --}}
-            <div class="col-lg-3 col-sm-6">
+            <!-- Card 8: El Torero Restaurant & Bar -->
+                <div class="col-lg-3 col-sm-6">
                 <div class="place-card">
                     <div class="card-image" style="background-image: url('https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80');">
                         <div style="display: flex; align-items: center;" class="card-image-header">
