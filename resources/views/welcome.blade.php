@@ -15,6 +15,7 @@
     <!-- Cards Grid Section -->
     <div class="cards-container">
         <div class="row g-4">
+            
             <!-- Card 1: Portland New Art Museum -->
             <div class="col-lg-3 col-sm-6">
                 <div class="place-card">
@@ -29,21 +30,26 @@
                             </div>
                         </div>
                     </div>
+                    
                     <div class="card-content">
                         <div class="card-info">
                             <h3 class="card-title">
                                 Portland New Art Museum
                             </h3>
+                            
                             <div class="info-item">
                                 <i class="fas fa-map-marker-alt"></i>
                                 <span>W Century Blvd, Los Angeles</span>
                             </div>
+                            
                             <div class="info-item">
                                 <i class="fas fa-phone"></i>
                                 <span>+(125) 548 996</span>
                             </div>
                         </div>
+                        
                         <div class="card-separator"></div>
+                        
                         <div class="card-footer">
                             <a href="#" class="view-detail">
                                 View detail →
@@ -70,21 +76,26 @@
                             </div>
                         </div>
                     </div>
+                    
                     <div class="card-content">
                         <div class="card-info">
                             <div class="recommended-badge">
                                 Recommended
                             </div>
+                            
                             <h3 class="card-title">
                                 JP Shopping Mall in California
                             </h3>
+                            
                             <div class="price-info">
                                 <span class="price-text">Starts at </span>
                                 <span class="price-amount">$449</span>
                                 <span class="price-text"> for 1 person</span>
                             </div>
                         </div>
+                        
                         <div class="card-separator"></div>
+                        
                         <div class="card-footer">
                             <a href="#" class="view-detail">
                                 View detail →
@@ -111,21 +122,26 @@
                             </div>
                         </div>
                     </div>
+                    
                     <div class="card-content">
                         <div class="card-info">
                             <h3 class="card-title">
                                 Courtyard by Marriott New York
                             </h3>
+                            
                             <div class="info-item">
                                 <i class="fas fa-map-marker-alt"></i>
                                 <span>W Century Blvd, Los Angeles</span>
                             </div>
+                            
                             <div class="info-item">
                                 <i class="fas fa-phone"></i>
                                 <span>+(125) 548 996</span>
                             </div>
                         </div>
+                        
                         <div class="card-separator"></div>
+                        
                         <div class="card-footer">
                             <a href="#" class="view-detail">
                                 View detail →
@@ -152,22 +168,26 @@
                             </div>
                         </div>
                     </div>
-
+                    
                     <div class="card-content">
                         <div class="card-info">
                             <div class="recommended-badge">
                                 Recommended
                             </div>
+                            
                             <h3 class="card-title">
                                 Emperor Resort & Spa
                             </h3>
+                            
                             <div class="price-info">
                                 <span class="price-text">Starts at </span>
                                 <span class="price-amount">$350</span>
                                 <span class="price-text"> for 1 person</span>
                             </div>
                         </div>
+                        
                         <div class="card-separator"></div>
+                        
                         <div class="card-footer">
                             <a href="#" class="view-detail">
                                 View detail →
@@ -194,21 +214,26 @@
                             </div>
                         </div>
                     </div>
+                    
                     <div class="card-content">
                         <div class="card-info">
                             <h3 class="card-title">
                                 Phoenix Power Gym
                             </h3>
+                            
                             <div class="info-item">
                                 <i class="fas fa-map-marker-alt"></i>
                                 <span>W Century Blvd, Los Angeles</span>
                             </div>
+                            
                             <div class="info-item">
                                 <i class="fas fa-phone"></i>
                                 <span>+(125) 548 996</span>
                             </div>
                         </div>
+                        
                         <div class="card-separator"></div>
+                        
                         <div class="card-footer">
                             <a href="#" class="view-detail">
                                 View detail →
@@ -235,21 +260,26 @@
                             </div>
                         </div>
                     </div>
+                    
                     <div class="card-content">
                         <div class="card-info">
                             <h3 class="card-title">
                                 Park Plaza Lodge Hotel
                             </h3>
+                            
                             <div class="info-item">
                                 <i class="fas fa-map-marker-alt"></i>
                                 <span>W Century Blvd, Los Angeles</span>
                             </div>
+                            
                             <div class="info-item">
                                 <i class="fas fa-phone"></i>
                                 <span>+(125) 548 996</span>
                             </div>
                         </div>
+                        
                         <div class="card-separator"></div>
+                        
                         <div class="card-footer">
                             <a href="#" class="view-detail">
                                 View detail →
@@ -276,21 +306,26 @@
                             </div>
                         </div>
                     </div>
+                    
                     <div class="card-content">
                         <div class="card-info">
                             <div class="recommended-badge">
                                 Recommended
                             </div>
+                            
                             <h3 class="card-title">
                                 Car Service & Repair
                             </h3>
+                            
                             <div class="price-info">
                                 <span class="price-text">Starts at </span>
                                 <span class="price-amount">$599</span>
                                 <span class="price-text"> for 1 person</span>
                             </div>
                         </div>
+                        
                         <div class="card-separator"></div>
+                        
                         <div class="card-footer">
                             <a href="#" class="view-detail">
                                 View detail →
@@ -317,21 +352,26 @@
                             </div>
                         </div>
                     </div>
+                    
                     <div class="card-content">
                         <div class="card-info">
                             <h3 class="card-title">
                                 El Torero Restaurant & Bar
                             </h3>
+                            
                             <div class="info-item">
                                 <i class="fas fa-map-marker-alt"></i>
                                 <span>W Century Blvd, Los Angeles</span>
                             </div>
+                            
                             <div class="info-item">
                                 <i class="fas fa-phone"></i>
                                 <span>+(125) 548 996</span>
                             </div>
                         </div>
+                        
                         <div class="card-separator"></div>
+                        
                         <div class="card-footer">
                             <a href="#" class="view-detail">
                                 View detail →
@@ -343,6 +383,7 @@
                     </div>
                 </div>
             </div>
+            
         </div>
     </div>
 @endsection
